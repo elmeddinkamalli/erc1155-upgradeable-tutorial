@@ -1,4 +1,4 @@
-# erc1155-upgradeable-tutorial-
+# erc1155-upgradeable-tutorial
 ERC-1155 Upgradeable Smart Contract
 
 Tutorial video link: https://www.youtube.com/watch?v=3bpz7rJ54WE
